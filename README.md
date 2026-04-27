@@ -100,11 +100,11 @@ Source: [Kaggle — Superstore Dataset](https://www.kaggle.com/datasets/vivek468
 
 ## 💡 Business Recommendations
 
-1. 🔴 **Investigate Furniture Profitability** — Revenue is high but margins are critically low at 2.5%
-2. 🔵 **Invest More in Technology** — Best combination of revenue and profit margin
-3. 🔵 **Grow the South Region** — Significant untapped revenue potential
-4. 🔵 **Leverage Growth Momentum** — 52% growth trend; scale operations now
-5. 🔴 **Review Machines Sub-Category** — High sales but near-zero or negative profit
+1.  **Investigate Furniture Profitability** — Revenue is high but margins are critically low at 2.5%
+2.  **Invest More in Technology** — Best combination of revenue and profit margin
+3.  **Grow the South Region** — Significant untapped revenue potential
+4.  **Leverage Growth Momentum** — 52% growth trend; scale operations now
+5.  **Review Machines Sub-Category** — High sales but near-zero or negative profit
 
 ---
 
